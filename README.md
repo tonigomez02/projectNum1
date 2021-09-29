@@ -1,6 +1,6 @@
-# new-project-2021
+# Primer-projecte-2021
 
-This is a Dummy Project
+Primer projecte Toni Gomez
 
 ## Dev Dependencies
 
