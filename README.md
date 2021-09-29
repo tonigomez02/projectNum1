@@ -2,6 +2,10 @@
 
 Primer projecte Toni Gomez
 
-## Dev Dependencies
+## TODO
 
-- [html-validate](https://www.npmjs.com/package/html-validate)
+- Aprendre a emplear markdown
+
+## Webgrafia
+
+- [Estadística basket](https://www.basketball-reference.com/) 
